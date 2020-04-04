@@ -1,0 +1,15 @@
+           			                                                                      //ZOOM ASSIGNMENT - TRESS\\
+
+1)FINDING OUT THE TRANSVERSAL METHODS FOR THE GIVEN BINARY TREE... 
+
+Ans)1.) DEPTH FIRST ORDER TRANSVERSAL                                                                             A
+                                                                                                               /    \
+		>INORDER TRANSVERSAL  : D B E P E A F C                                                       B      C                                            
+		>PREORDER TRANSVERSAL : A B D E P E C F                                                     /  \    /
+		>POSTORDER TRANSVERSAL: D E P E B C F A                                                    D   E   F
+                                                                                                                \    
+                                                                                                                 P
+        2.)BREADTH FIRST ORDER TRANSVERSAL : A B C D E F P E                                                      \  
+                                                                                                                   E
+                       
+
